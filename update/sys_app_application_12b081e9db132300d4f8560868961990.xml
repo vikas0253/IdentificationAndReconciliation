@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>IdentifcationAndReconciliations</name>
+        <order/>
+        <roles>x_132978_identifca.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-29 04:33:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>12b081e9db132300d4f8560868961990</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>RND - Identification and Reconciliation</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IdentifcationAndReconciliations" source="x_132978_identifca">06b04d29db132300d4f856086896193a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IdentifcationAndReconciliations">06b04d29db132300d4f856086896193a</sys_scope>
+        <sys_update_name>sys_app_application_12b081e9db132300d4f8560868961990</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-30 03:56:57</sys_updated_on>
+        <title>RND - Identification and Reconciliation</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

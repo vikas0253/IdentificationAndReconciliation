@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>true</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>true</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Computer ISR</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_132978_identifca_computer_isr</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">d9513145112023006517efa30493a28c</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-29 10:21:42</sys_created_on>
+        <sys_id>e7ffc665dbd32300d4f8560868961986</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Computer ISR</sys_name>
+        <sys_package display_value="IdentifcationAndReconciliations" source="x_132978_identifca">06b04d29db132300d4f856086896193a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IdentifcationAndReconciliations">06b04d29db132300d4f856086896193a</sys_scope>
+        <sys_update_name>sys_db_object_e7ffc665dbd32300d4f8560868961986</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-30 07:59:59</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_132978_identifca.user" name="x_132978_identifca.user">d6b081e9db132300d4f8560868961992</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

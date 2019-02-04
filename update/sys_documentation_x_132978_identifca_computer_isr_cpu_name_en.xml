@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="cpu_name" label="CPU name" language="en" table="x_132978_identifca_computer_isr">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>cpu_name</element>
+            <help/>
+            <hint/>
+            <label>CPU name</label>
+            <language>en</language>
+            <name>x_132978_identifca_computer_isr</name>
+            <plural>CPU names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-29 11:20:00</sys_created_on>
+            <sys_id>6bad562ddbd32300d4f856086896190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CPU name</sys_name>
+            <sys_package display_value="IdentifcationAndReconciliations" source="x_132978_identifca">06b04d29db132300d4f856086896193a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IdentifcationAndReconciliations">06b04d29db132300d4f856086896193a</sys_scope>
+            <sys_update_name>sys_documentation_x_132978_identifca_computer_isr_cpu_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-29 11:20:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="IdentifcationAndReconciliations">f4f049a9db132300d4f85608689619f1</application>
+        <filter/>
+        <name>Computer ISRs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_132978_identifca.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-29 10:21:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dd50da65dbd32300d4f85608689619e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Computer ISRs</sys_name>
+        <sys_package display_value="IdentifcationAndReconciliations" source="x_132978_identifca">06b04d29db132300d4f856086896193a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IdentifcationAndReconciliations">06b04d29db132300d4f856086896193a</sys_scope>
+        <sys_update_name>sys_ui_module_dd50da65dbd32300d4f85608689619e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-29 10:21:42</sys_updated_on>
+        <table>x_132978_identifca_computer_isr</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

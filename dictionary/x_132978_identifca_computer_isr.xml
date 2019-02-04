@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Computer ISR" max_length="40" name="x_132978_identifca_computer_isr" type="collection">
+        <element label="Asset tag" max_length="40" name="asset_tag" type="string"/>
+        <element label="Attributes" max_length="40" name="attributes" type="string"/>
+        <element label="Chassis type" max_length="40" name="chassis_type" type="string"/>
+        <element label="Column1" max_length="40" name="column1" type="string"/>
+        <element label="Comment" max_length="40" name="comment" type="string"/>
+        <element label="Comments" max_length="40" name="comments" type="string"/>
+        <element label="CPU name" max_length="40" name="cpu_name" type="string"/>
+        <element label="IP address" max_length="40" name="ip_address" type="string"/>
+        <element label="MAC Address" max_length="18" name="mac_address" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

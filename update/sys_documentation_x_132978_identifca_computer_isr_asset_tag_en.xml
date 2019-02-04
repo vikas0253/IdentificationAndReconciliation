@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="asset_tag" label="Asset tag" language="en" table="x_132978_identifca_computer_isr">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>asset_tag</element>
+            <help/>
+            <hint/>
+            <label>Asset tag</label>
+            <language>en</language>
+            <name>x_132978_identifca_computer_isr</name>
+            <plural>Asset tags</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-29 11:17:12</sys_created_on>
+            <sys_id>1a0d922ddbd32300d4f856086896195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Asset tag</sys_name>
+            <sys_package display_value="IdentifcationAndReconciliations" source="x_132978_identifca">06b04d29db132300d4f856086896193a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IdentifcationAndReconciliations">06b04d29db132300d4f856086896193a</sys_scope>
+            <sys_update_name>sys_documentation_x_132978_identifca_computer_isr_asset_tag_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-29 11:17:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
